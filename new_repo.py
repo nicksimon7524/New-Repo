@@ -7,3 +7,4 @@ Created on Thu Mar 31 15:44:41 2022
 """
 
 print('Helloooo, Ruth!')
+print("what's up")
